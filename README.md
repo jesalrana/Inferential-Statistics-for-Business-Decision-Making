@@ -1,7 +1,7 @@
-# Inferential Statistics for Business Decision Making
+# Using Inferential Statistics to validate Business Decisions and Reduce Risk.
 
 ## Project Overview
-This project applies inferential statistics and hypothesis testing to solve business and operational challenges using Python.
+Businesses often struggle to determine whether observed differences in performance are  statistically significant or due to random variation. This project applies inferential statiscal techniques to validate assumptions and support data0driven decision-making.
 
 ## Case Studies
 ### 1. Sports Injury Analysis
@@ -35,6 +35,15 @@ This project applies inferential statistics and hypothesis testing to solve busi
 - Statistical evidence supports better quality screening.
 - Method selection significantly impacts operational outcomes.
 - Multi-factor analysis improves decision-making.
+
+## Business Recommendations
+- Use statistical validation before making strategic decisions
+- Avoid relying on raw trends without testing signicance
+- Focus on data-backed insights to reduce bisiness risk
+- Incorporate hypothesis testing in campaighn and performance analysis
+
+## Business Impacts 
+This project demonstrates how statistical methods can improve decision accuuracy, reduce risk and enable more  reliable business strategies through data validation.
 
 ## Author
 Jesal Ajit Rana
